@@ -1,0 +1,3 @@
+Apres l'application de javadoc sur le code 
+il nous donner toute la documentation de notre code
+qui rassemble les commentaires..

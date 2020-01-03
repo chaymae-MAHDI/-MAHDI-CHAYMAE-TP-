@@ -1,0 +1,17 @@
+1-L'interet de la documentetion pour le code développé est:
+ Tout d'abord, cela permet de mieux comprendre ce que l'on a écrit. Mais surtout,
+ cela facilitera le travail de ceux qui voudraient comprendre, utiliser, voire maintenir votre travail.
+Pour une utilisation personnelle
+Vous comprendrez mieux ce que vous avez écrit.
+Vous pourrez revenir sur votre code sans avoir à vous replonger dedans.
+Vous pouvez anticiper le codage d'une classe en rédigeant la doc.
+Pour une utilisation scolaire
+Les mêmes arguments qu'au dessus plus...
+Beaucoup de profs ne lisent pas en détail les sources.
+C'est toujours des points en plus de gagnés 
+C'est plus facile quand on travaille à plusieurs.
+Pour une utilisation professionnelle
+Les même arguments qu'au dessus plus...
+Votre code sera sans doute utilisé par d'autres.
+Il sera plus facile de communiquer sur votre travail.
+C'est toujours mieux vu de fournir un code avec une documentation
